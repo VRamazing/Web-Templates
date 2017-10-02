@@ -1,2 +1,2 @@
-# Simple-HTML-Template
-This is a simple html template.Download and get started with your website.
+# Web Templates
+Boilerplates for various template structures used in web development.
